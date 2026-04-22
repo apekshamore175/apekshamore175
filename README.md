@@ -30,7 +30,7 @@ To become a good developer and get an internship where I can learn and grow.
 
 ## 🤝 Connect
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/apekshamore175
 
 ---
 
