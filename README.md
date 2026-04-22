@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Apeksha 👋
 
-<!--
-**apekshamore175/apekshamore175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT engineering student, currently learning how to code and trying to improve step by step.
 
-Here are some ideas to get you started:
+Right now, I'm focusing on understanding the basics properly instead of rushing things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 What I'm Learning
+
+* Data Structures & Algorithms (DSA)
+* Web Development (HTML, CSS, JavaScript)
+* Java programming
+
+---
+
+## 💻 What I'm Doing
+
+* Practicing coding regularly
+* Building small projects to understand concepts
+* Trying to stay consistent (not easy, but trying)
+
+---
+
+## 🎯 My Goal
+
+To become a good developer and get an internship where I can learn and grow.
+
+---
+
+## 🤝 Connect
+
+* GitHub: https://github.com/your-username
+
+---
+
+Thanks for visiting my profile 🙂
