@@ -1,37 +1,23 @@
-# Hi, I'm Apeksha 👋
+Hi, I'm Apeksha 👋
 
-I'm an IT engineering student, currently learning how to code and trying to improve step by step.
+I’m an Information Technology engineering student with a strong focus on building a solid foundation in programming and problem-solving. I believe in learning concepts deeply rather than rushing through them, and I’m committed to growing step by step.
 
-Right now, I'm focusing on understanding the basics properly instead of rushing things.
+🌱 Currently Learning
 
----
+Data Structures & Algorithms (DSA)
+Web Development (HTML, CSS, JavaScript)
+Java Programming
 
-## 🌱 What I'm Learning
+💻 What I’m Working On
 
-* Data Structures & Algorithms (DSA)
-* Web Development (HTML, CSS, JavaScript)
-* Java programming
+Practicing coding consistently to strengthen fundamentals
+Solving DSA problems to improve logical thinking
+Building small projects to apply and understand concepts in a practical way
 
----
+🎯 Career Goal
 
-## 💻 What I'm Doing
+To become a skilled developer and secure an internship where I can contribute, learn from real-world projects, and continuously improve.
 
-* Practicing coding regularly
-* Building small projects to understand concepts
-* Trying to stay consistent (not easy, but trying)
-
----
-
-## 🎯 My Goal
-
-To become a good developer and get an internship where I can learn and grow.
-
----
-
-## 🤝 Connect
-
-* GitHub: https://github.com/apekshamore175
-
----
-
-Thanks for visiting my profile 🙂
+🤝 Connect with Me
+GitHub: https://github.com/apekshamore175
+Email: moreapeksha75@gmail.com
