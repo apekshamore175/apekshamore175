@@ -5,7 +5,7 @@ I’m an Information Technology engineering student with a strong focus on build
 🌱 Currently Learning
 
 Data Structures & Algorithms (DSA)
-Web Development (HTML, CSS, JavaScript)
+Web Development (HTML, CSS, JavaScript, React, Express, MongoDB)
 Java Programming
 
 💻 What I’m Working On
